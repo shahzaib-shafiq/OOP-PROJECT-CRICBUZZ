@@ -1,0 +1,16 @@
+Coach: Abinandan
+							
+Captain: Koli	
+							
+NAME		SHIRT	AVG	T 20	RUN	MATCHES   WICKETS
+Virat Kholi	1	12	127	47896	14	      14
+Rohit Sharma	2	17	8	48896	58	      25
+Rishabh Pant	3	53	9	49896	63	      265
+KL Rahul	4	23	6	25	896	78	      48
+MS Dhoni	5	25	2	25	896	355	      21
+Hardik Pandya	6	25	25	42589	52	      21
+Jasprit Bumrah	7	758	85	48589	257	      35
+B. Kumar	8	22	25	123	589	66	      21
+Ravindra Jadeja	9	235	27	42789	25	      24
+yuzvendra	10	24	28	42889	63	      24
+Kuldeep Yadav	11	23	28	42889	47	      36

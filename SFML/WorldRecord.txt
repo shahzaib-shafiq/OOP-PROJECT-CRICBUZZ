@@ -1,0 +1,12 @@
+
+World--Record
+
+Team Name PAKISTAN
+HIGE STSCORE 0
+Most sixes 147
+Most fours 147
+Most_centuries 23
+ Highestbatting_average 147
+ Best_strikerate 12
+Most_wickets 14
+ Bestbowling_avg 25

@@ -1,0 +1,18 @@
+New Player Added
+Team NEW.TXT 
+Shirt No
+  4
+Avg 5
+ Matches_played 9Total wickets
+  3Total_runs
+  2
+HIGESTSCORE 
+4Fifty Scored
+  5
+Century Scored
+  7
+ICCRanking IN ODI
+  7
+ICCRanking IN TEST  8
+ICCRanking IN T20
+  6

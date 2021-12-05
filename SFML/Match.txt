@@ -1,0 +1,15 @@
+
+New Team 
+ Teamname   
+ Team_Captain 
+   
+Team Coach  
+
+ICC_titles  0
+
+Toal Players 0
+
+HomeGround 
+ICC titles0
+Totalmatches won0Totalmatches lost
+0

@@ -1,0 +1,16 @@
+Coach: Mr Elon
+								
+Captain: Peter								
+
+NAME		SHIRT   AVERAGE	T-20	RUN	MATCHES	WICKETS
+Ben Stokes	1	10	6	12051	20		17
+Joe Root		14	3	12	31247	30		58
+Eoin Morgan	3	54	6	21654	40		11
+Moeen Ali	4	25	8	12824	18		23
+Jos Buttler	5	69	2	36265	17		47
+Jofra Archer	6	56	5	98554	48		36
+Jonny Bairstow	7	78	26	25267	65		15
+Jason Roy	8	1	9	21	91255	23		21
+Mark Wood	9	21	7	22724	36		25
+Adil Rashid	10	54	2	10205	12		21
+Tom Curran	11	36	2	21125	25		22

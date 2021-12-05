@@ -1,0 +1,20 @@
+Coach: William
+
+Captain: George
+
+NAME		SHIRT   AVERAGE	T-20 	RUNS	MATCHES   WICKETS
+Steve Smith	1	12	47	14789	40	     50
+David Warner	2	50	25	14569	50	     15							
+Aaron Finch	3	40	41	78955	60	     20
+Glenn Maxwell	4	18	36	78922	80	     102
+Pat Cummins	5	20	23	14784	12	     147
+Mitchell Starc	6	28	14	23658	11	     369
+Adam Zampa	7	30	11	25896	47	     158
+Nathan Lyon	8	56	10	25478	96	     210
+Marcus Stoinis	9	96	8	26589	14	     789
+Matthew Wade	10	78	7	78215	45	     987
+Kane Richardson	11	15	4	21478	36	     364
+Nathan Nile	12	18	20	36987	12	     456
+Peter Handscomb	13	24	21	14785	23	     159
+Alex Carey	14	38	45	10258	14	     108
+Jackson Bird	15	87	23	14789	36	       178

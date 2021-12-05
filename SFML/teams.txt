@@ -1,0 +1,40 @@
+	
+ 	    //Pakistan Team Squad
+	    
+                Babar-Azam(C)"		;	
+		Team1 [1]="Shadab-Khan(VC)"		;
+		Team1 [2]="Sharjeel-Khan"		;
+		Team1 [3]="Mohammad-Hafeez"		;
+		Team1 [4]="Haider-Ali"			;
+		Team1 [5]="Danish-Aziz"			;
+		Team1 [6]="Asif-Ali"			;
+		Team1 [7]="Mohammad-Nawaz"		;
+		Team1 [8]="Faheem-Ashraf"		;
+		Team1 [9]="Mohammad-Wasim"		;
+		Team1 [10]="Mohammad-Rizwan"	;
+		Team1 [11]="Sarfaraz-Ahmed"		;
+		Team1 [12]="Shaheed-Afridi"		;
+		Team1 [13]="Haris-Rauf"			;
+		Team1 [14]="Mohammad-Hasnain"	;
+		Team1 [15]="Hasan-Ali"			;
+		Team1 [16] = "Abdul-Qadir"      ;
+
+		//team India Squad
+				Team2 [0] = "Rohit-Sharma"			;	
+				Team2 [1] = "Shubman-Gill"			;	
+				Team2 [2] = "Mayank-Agarwal"		;	
+				Team2 [3] = "Cheteshwar-Pujara"		;	
+				Team2 [4] = "Virat-Kohli"			;
+				Team2 [5] = "Ajinkya-Rahane"		;
+				Team2 [6] = "Hanuma-Vihari"			;	
+				Team2 [7] = "Rishabh-Pant"			;
+				Team2 [8] = "R-Ashwin"				;	
+				Team2 [9] = "Ravindra-Jadeja"		;	
+				Team2 [10] = "Axar-Patel"			;	
+				Team2 [11] = "Washington-Sundar"	;	
+				Team2 [12] = "Jasprit-Bumrah"		;	
+				Team2 [13] = "Ishant-Sharma"		;	
+				Team2 [14] = "Mohd-Shami"			;	
+				Team2 [15] = "Md-Siraj"				;	
+				Team2 [16] = "Dhoni";
+	
